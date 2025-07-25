@@ -1,0 +1,27 @@
+/*Folha de Estilo Global*/
+/*Settings que tocam em todo o conteúdo da página.*/
+*{
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #F6F8FC;
+}
+/*Ajustando a responsividade do conteúdo para diferentes dispositivos*/
+.content{
+    width: 100vw;
+    height: 100vh;
+    padding: 1rem;
+    background-color: #FFFFFF;
+}
+
+@media screen and (min-width: 992px) {
+    .content{
+        max-width: 992px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+}
