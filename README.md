@@ -5,7 +5,7 @@ Um projeto front-end que utiliza a PokéAPI para criar uma Pokedex funcional e e
 
 ## 📸 Demo
 
-https://github.com/eslbcdev/pokedex/pokedex.gif
+<img src="pokedex.gif">
 
 ## ✨ Sobre o Projeto
 O objetivo deste projeto foi colocar em prática o consumo de uma API RESTful pública, o tratamento de dados em formato JSON e a renderização dinâmica de elementos no HTML. A Pokedex exibe uma lista de Pokémon, onde cada card contém o nome, número, tipos e a imagem do Pokémon, com uma cor de fundo que corresponde ao seu tipo principal.
